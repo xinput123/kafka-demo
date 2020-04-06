@@ -1,0 +1,40 @@
+### Mac ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Package ###
+*.jar
+*.war
+*.ear
+
+
+### Idea ###
+.idea
+.idea/
+.idea/*
+*.iml
+
+### Maven ###
+/target
+pom.xml.*
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+
+### PlayFramework ###
+bin/
+db/
+/modules
+/project/*
+tmp/
+
+
+### Log ###
+hs_err_pid*
+/logs
+/log
+logs/
+log/
+*.log
